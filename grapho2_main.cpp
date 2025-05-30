@@ -1,7 +1,7 @@
 // Trabalho da disciplina Analise de Algoritmos. Ministrado por: Prof Felipe Carvalho Pellison
 //Alunos:
 // 2136390 - Augusto Coimbra de Oliveira
-//
+// 2158087 - Joshua Lorenzo de Souza
 //2125543 - Luis Felipe Rotondo Kobelnik
 
 // Inclusão das bibliotecas padrão do C++ necessárias para o programa
